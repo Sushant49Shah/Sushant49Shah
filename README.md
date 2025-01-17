@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for solvin
 
 Here are some of the projects I’m proud of:  
 
-- **[Ragat Sewa](#)**: A blood donation platform connecting donors with those in need.  
+- **[Ragat Sewa](www.ragatsewa.com)**: A blood donation platform connecting donors with those in need.  
 - **Club Website**: A responsive and feature-rich website for my club during High School.  
 - **Chess App**: A chess-playing app built to challenge your strategic thinking.  
 - **Text Utility Website**: A tool-packed website for manipulating and analyzing text.
@@ -89,8 +89,8 @@ My passion for tech started with dismantling and creating electronic devices as 
 ## 📫 Let's Connect  
 
 - Email: [sushantshah0409@gmail.com]  
-- LinkedIn: [Sushant Shah](#)  
-- Portfolio: [Currently Working](#)  
+- Phone: [9803316889](+977-9803316889)  
+- Portfolio: [Currently Working](https://portfolio-git-main-sushant49shah.vercel.app/)  
 
 ## 🌐 Links
 
