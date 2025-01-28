@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for solvin
 
 Here are some of the projects I’m proud of:  
 
-- **<a href="www.ragatsewa.com">Ragat Sewa</a>**: A blood donation platform connecting donors with those in need.  
+- **<a href="https://www.ragatsewa.com">Ragat Sewa</a>**: A blood donation platform connecting donors with those in need.  
 - **Club Website**: A responsive and feature-rich website for my club during High School.  
 - **Chess App**: A chess-playing app built to challenge your strategic thinking.  
 - **Text Utility Website**: A tool-packed website for manipulating and analyzing text.
